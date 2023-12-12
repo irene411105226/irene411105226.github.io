@@ -3,8 +3,8 @@
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
-		{name:"B2B26禮物_HTML5 Canvas_atlas_1", frames: [[0,0,899,1091],[901,0,899,1091]]},
-		{name:"B2B26禮物_HTML5 Canvas_atlas_2", frames: [[1668,807,134,89],[1572,673,141,124],[1572,799,94,141],[1668,898,107,108],[1804,824,134,89],[1715,681,141,124],[1858,681,94,141],[1777,915,107,108],[0,0,847,1091],[849,0,721,1091],[1774,0,200,339],[1572,345,196,326],[1774,341,196,338],[1572,0,200,343]]}
+		{name:"B2B26禮物_atlas_1", frames: [[0,0,899,1091],[901,0,899,1091]]},
+		{name:"B2B26禮物_atlas_2", frames: [[1668,807,134,89],[1572,673,141,124],[1572,799,94,141],[1668,898,107,108],[1804,824,134,89],[1715,681,141,124],[1858,681,94,141],[1777,915,107,108],[0,0,847,1091],[849,0,721,1091],[1774,0,200,339],[1572,345,196,326],[1774,341,196,338],[1572,0,200,343]]}
 ];
 
 
@@ -29,112 +29,112 @@ lib.ssMetadata = [
 
 
 (lib.CachedBmp_16 = function() {
-	this.initialize(ss["B2B26禮物_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["B2B26禮物_atlas_2"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_15 = function() {
-	this.initialize(ss["B2B26禮物_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["B2B26禮物_atlas_2"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_14 = function() {
-	this.initialize(ss["B2B26禮物_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["B2B26禮物_atlas_2"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_13 = function() {
-	this.initialize(ss["B2B26禮物_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["B2B26禮物_atlas_2"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_12 = function() {
-	this.initialize(ss["B2B26禮物_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["B2B26禮物_atlas_2"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_11 = function() {
-	this.initialize(ss["B2B26禮物_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["B2B26禮物_atlas_2"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_10 = function() {
-	this.initialize(ss["B2B26禮物_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["B2B26禮物_atlas_2"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_9 = function() {
-	this.initialize(ss["B2B26禮物_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["B2B26禮物_atlas_2"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_8 = function() {
-	this.initialize(ss["B2B26禮物_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["B2B26禮物_atlas_2"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_7 = function() {
-	this.initialize(ss["B2B26禮物_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["B2B26禮物_atlas_2"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_6 = function() {
-	this.initialize(ss["B2B26禮物_HTML5 Canvas_atlas_1"]);
+	this.initialize(ss["B2B26禮物_atlas_1"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_5 = function() {
-	this.initialize(ss["B2B26禮物_HTML5 Canvas_atlas_1"]);
+	this.initialize(ss["B2B26禮物_atlas_1"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_4 = function() {
-	this.initialize(ss["B2B26禮物_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["B2B26禮物_atlas_2"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_3 = function() {
-	this.initialize(ss["B2B26禮物_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["B2B26禮物_atlas_2"]);
 	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_2 = function() {
-	this.initialize(ss["B2B26禮物_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["B2B26禮物_atlas_2"]);
 	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_1 = function() {
-	this.initialize(ss["B2B26禮物_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["B2B26禮物_atlas_2"]);
 	this.gotoAndStop(13);
 }).prototype = p = new cjs.Sprite();
 // helper functions:
@@ -505,7 +505,7 @@ p.nominalBounds = new cjs.Rectangle(-18.9,-33.2,92.19999999999999,104.8);
 
 
 // stage content:
-(lib.B2B26禮物_HTML5Canvas = function(mode,startPosition,loop,reversed) {
+(lib.B2B26禮物 = function(mode,startPosition,loop,reversed) {
 if (loop == null) { loop = true; }
 if (reversed == null) { reversed = false; }
 	var props = new Object();
@@ -605,8 +605,8 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/B2B26禮物_HTML5 Canvas_atlas_1.png?1702402445698", id:"B2B26禮物_HTML5 Canvas_atlas_1"},
-		{src:"images/B2B26禮物_HTML5 Canvas_atlas_2.png?1702402445698", id:"B2B26禮物_HTML5 Canvas_atlas_2"}
+		{src:"images/B2B26禮物_atlas_1.png?1702402983361", id:"B2B26禮物_atlas_1"},
+		{src:"images/B2B26禮物_atlas_2.png?1702402983361", id:"B2B26禮物_atlas_2"}
 	],
 	preloads: []
 };
